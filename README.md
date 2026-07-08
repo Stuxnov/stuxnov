@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/lOMdhAXf8ke6lEl3DZ/giphy.gif" width="130" align="right">
 
 I like taking systems apart just to see how they actually work, and then figuring out how to make them do things they were never built to do.
 
@@ -10,17 +10,6 @@ Most of what I do starts with a simple question. "What happens if I push this th
 
 ![Status](https://img.shields.io/badge/Status-Always%20Learning-blueviolet?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Offensive%20Security-red?style=flat-square)
-![Kernel](https://img.shields.io/badge/Kernel%20Mode-Enjoyer-orange?style=flat-square)
-
----
-
-## 🔧 Technical Focus Areas
-
-- Network and host reconnaissance, vulnerability analysis
-- OSINT tooling and forensic analysis (blockchain, identity correlation)
-- Low level system behavior and how it gets abused in practice
-- Contributing to open source security tools (nmap NSE,...)
-- Leveling up in C and Python for offense and low level work (always)
 
 ---
 
