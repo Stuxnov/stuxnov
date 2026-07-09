@@ -24,11 +24,3 @@ Most of what I do starts with a simple question. "What happens if I push this th
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 Future Plans
-
-Right now I'm focused on getting real, accepted contributions into established security tools instead of just building things on my own. Nmap's NSE scripts are the current target.
-
-Long term the goal is simple. Understand a system well enough, whatever layer it lives on, that you stop being surprised by how it can be made to fail.
